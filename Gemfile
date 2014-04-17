@@ -15,6 +15,8 @@ group :production do
 	gem 'pg'
 	gem 'rails_12factor'
 end
+
+gem 'foundation-rails'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.0'
 # Use Uglifier as compressor for JavaScript assets
